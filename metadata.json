@@ -1,0 +1,11 @@
+{
+    "description": "Github Action to auto accept all collaboration invites",
+    "homepage": "https://github.com/kbrashears5/github-action-auto-accept-collabs",
+    "keywords": [
+        "auto",
+        "accept",
+        "collabs",
+        "collaboration",
+        "action"
+    ]
+}
