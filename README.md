@@ -1,15 +1,7 @@
-<h1 align="center">github-action-auto-accept-collabs</h1>
-
-
-<div align="center">
-
-<b>Github Action to auto accept all collaboration invites</b>
+# github-action-auto-accept-collabs
+Github Action to auto accept all collaboration invites
 
 [![version](https://img.shields.io/github/v/release/kbrashears5/github-action-auto-accept-collabs)](https://img.shields.io/github/v/release/kbrashears5/github-action-auto-accept-collabs)
-[![Build Status](https://dev.azure.com/kbrashears5/github/_apis/build/status/kbrashears5.github-action-auto-accept-collabs?branchName=master)](https://dev.azure.com/kbrashears5/github/_build/latest?definitionId=33&branchName=master)
-
-</div>
-
 
 # Use Cases
 Auto accept all collaboration invites. Useful for a bot account
