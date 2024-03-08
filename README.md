@@ -22,14 +22,12 @@ jobs:
   file_sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetching Local Repository
-        uses: actions/checkout@master
       - name: Auto Accept Collabs
-        uses: kbrashears5/github-action-auto-accept-collabs@v1.0.0
+        uses: kbrashears5/github-action-auto-accept-collabs@v2.0.0
         with:
           TOKEN: ${{ secrets.ACTIONS }}
 ```
 ## Parameters
 | Parameter | Required | Description |
 | --- | --- | --- |
-| TOKEN | true | Personal Access Token with Repo scope |
+| TOKEN | true | [Personal Access Token](https://github.com/settings/tokens) with Repo scope |
